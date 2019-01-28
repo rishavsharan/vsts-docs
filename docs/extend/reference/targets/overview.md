@@ -97,6 +97,8 @@ Name                      | Target ID                                   | Previe
 --------------------------|---------------------------------------------|-------------------
 Completed build menu      | `ms.vss-build-web.completed-build-menu`     | ![completedBuildActions](./vss/build/web/_img/completedBuildActions.png)
 Build definitions menu    | `ms.vss-build-web.build-definition-menu`    | ![buildDefinitionActions](./vss/build/web/_img/buildDefinitionActions.png)
+Test results toolbar action    | `ms.vss-test-web.test-results-actions-menu`    | ![buildDefinitionActions](./vss/build/web/_img/buildDefinitionActions.png)
+Test result details tab    | `ms.vss-test-web.test-result-details-tab-items`    | ![buildDefinitionActions](./vss/build/web/_img/buildDefinitionActions.png)
 
 <a name="menu_release"></a>
 ### Release
